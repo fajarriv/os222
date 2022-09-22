@@ -26,3 +26,16 @@ This video also explains why cybersecurity is essential.
 This is a good site for people who want to learn about C with some basic exercises. 
 This site also lets you run the code on the website and see the output of your code.
 
+## Week 03
+
+1. [(Article) How to Format Disk Partitions in Linux](https://phoenixnap.com/kb/linux-format-disk)<br>
+This article helps me understand about the difference between Disk Formats and which OS supports them. It also explains about partition checking, formatting disks on linux, and mounting disks on Linux.
+
+2. [(Article) Develop your own filesystem with FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
+This article shows how to unpack, build, and install your own filesystem. It also shows how to customize the filesystem.
+
+3. [(Article) Chmod Command in Linux (File Permissions)](https://linuxize.com/post/chmod-command-in-linux/)<br>
+In our file, we have this thing called "File Permission". And to change what we have we need access to that file permission. With this article, I learn about how to use "chmod" command to change the access permissions of files and directory.
+
+4. [(Article) Differences between /bin, /sbin, /usr/bin, /usr/sbin, /usr/local/bin, /usr/local/sbin](https://askubuntu.com/questions/308045/differences-between-bin-sbin-usr-bin-usr-sbin-usr-local-bin-usr-local)<br>
+Within this OS course, we see a lot of this things like "/bin/" or "/sbin/" and many more things similar to it. And honestly, I don't really know what it is. With this article came from community, I now know the difference between them.
