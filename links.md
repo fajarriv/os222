@@ -39,3 +39,17 @@ In our file, we have this thing called "File Permission". And to change what we 
 
 4. [(Article) Differences between /bin, /sbin, /usr/bin, /usr/sbin, /usr/local/bin, /usr/local/sbin](https://askubuntu.com/questions/308045/differences-between-bin-sbin-usr-bin-usr-sbin-usr-local-bin-usr-local)<br>
 Within this OS course, we see a lot of this things like "/bin/" or "/sbin/" and many more things similar to it. And honestly, I don't really know what it is. With this article came from community, I now know the difference between them.
+
+## Week 04
+
+1. [Pointers in C](https://youtu.be/mw1qsMieK5c)<br>
+10 minutes Youtube video explaining about how pointers work. Pretty short for the amount of information you're getting from the video.
+
+2. [What is virtual memory?](https://youtu.be/2quKyPnUShQ)<br>
+11 minutes Youtube video explaning about virtual address and how it works. The video has a lot of information about how OS actually manage memories for programs.
+
+3. [Paging](https://youtu.be/pJ5ezHfJokw)<br>
+1 minute video containing very short explanation about paging. Very short and easy to understand the explanation.
+
+4. [Segmented, Paged dan Virtual Memory](https://youtu.be/p9yZNLeOj4s)<br>
+7 minutes video about segmentation, paging, and virtual memory. It's kinda like a summary of all these things. Pretty short and easy to follow.
