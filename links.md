@@ -5,12 +5,12 @@ permalink: LINKS/
 # LINKS 🖥
 ## Here are some links that I think are helpful for Operating Systems course
 
-### Week0
+## Week0
 1. [Computer Basics: Understanding Operating Systems](https://youtu.be/fkGCLIQx1MI)<br>
 Watching this video is a great way to get to know and understand about operating systems.
 This video is full of animations, so this video won't be boring if you prefer animations to simple lecture.
 
-### Week1
+## Week1
 1. [Essential Linux Commands](https://linuxhint.com/100_essential_linux_commands)<br>
 This article can help us to learn several linux commands. 
 It explains the function and example of several linux commands.
@@ -18,7 +18,7 @@ It explains the function and example of several linux commands.
 This video is great to get to know about awk. 
 In this video, there are explanation about what awk is, the function of awk, how to use awk, etc. 
 
-### Week2
+## Week2
 1. [Cybersecurity 101](https://youtu.be/sdpxddDzXfE)<br>
 This video will let you get to know the basic meaning of cybersecurity in entertaining and engaging way. 
 This video also explains why cybersecurity is essential.
@@ -53,3 +53,13 @@ Within this OS course, we see a lot of this things like "/bin/" or "/sbin/" and 
 
 4. [Segmented, Paged dan Virtual Memory](https://youtu.be/p9yZNLeOj4s)<br>
 7 minutes video about segmentation, paging, and virtual memory. It's kinda like a summary of all these things. Pretty short and easy to follow.
+
+## Week5
+1. [Virtual Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html)<br>
+Learning about virtual memory at first might be hard, but this article can help us to understand it better and easier.
+This article gives some pictures as visualization and several great descriptions in every subsection.
+~The only downside of this article is only the yellow background :'D 
+2. [Thrashing in Operating System](https://www.studytonight.com/operating-system/thrashing-in-operating-system)<br>
+We might know about term trashing in our daily life, but how about trashing in operating system?
+This article can give you great explanation about the concept of trashing in operating system.
+This article explains the causes of trashing, the effects of trashing, and also techniques used to handle the thrashing.

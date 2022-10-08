@@ -42,10 +42,24 @@ ZCZC W03 70 L13 Assignment #03
 ZCZC W03 25 L43 TXT/myrank.txt related, including peer review.
 ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W03 15 TXT/mylog.txt related.
-ZCZC W04  10 L00 General, etc.
-ZCZC W04  30 L01 SCELE/Discord related
-ZCZC W04  15 L03 Github related
-ZCZC W04  95 L05 Quiz related
-ZCZC W04  35 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L00 General, etc.
+ZCZC W04 30 L01 SCELE/Discord related
+ZCZC W04 15 L03 Github related
+ZCZC W04 95 L05 Quiz related
+ZCZC W04 35 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 150 L09 Weekly Assignments
 ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 100 L02 Zoom related
+ZCZC W05 60 L15 Assignment #05
+ZCZC W05 30 L15 Assignment #05
+ZCZC W05 50 L01 Learning through Tutorial
+ZCZC W05 40 L05 Quiz related including studying
+ZCZC W05 5 L41 TXT/mylog.txt related.
+ZCZC W05 60 L09 Assignment in General
+ZCZC W05 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 35 L06 Do reading related to Assignment #05
+ZCZC W05 40 L05 Quiz related including studying
+ZCZC W05 110 L15 Assignment #05
+ZCZC W05 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 10 L41 TXT/mylog.txt related
+ZCZC W05 5 L03 GitHub and git related, including commit, push, pull
